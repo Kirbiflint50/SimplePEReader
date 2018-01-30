@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+..\..\..\..\Simone's documents\Simone's softwares\PEReader3\PEReader3\MyForm.cpp(10): warning C4829: Parametri probabilmente errati nella funzione main. Si consiglia di utilizzare 'int main(array<System::String^>^ argv)'
+  PeReader.cpp
+  Generazione del codice in corso...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: il punto d'ingresso deve essere definito
